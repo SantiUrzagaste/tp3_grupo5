@@ -1,5 +1,4 @@
-package ar.edu.unju.escmi.tp2.ejercicio5;
-
+package ar.edu.unju.escmi.tp3.ejercicio5;
 public class Producto {
 
     private int codigo;
